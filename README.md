@@ -12,3 +12,9 @@ These assignments and programming projects were given to students that utilizes 
 
 ### Todo List Site
  - This assignment was a full stack development project that utilizes MERN and MongoDB allowing users to manage and operate their personal accounts in the use of making lists.
+
+### NYC Airbnb
+ - This assignment utilized Python and its libraries to manipulate data and visualize numerical differences of Airbnbs from New York City by categories such as location, price, listings, availability, reviews, and room type. This project also generates word clouds and charts of the correlation between available categories.
+
+### Weather Energy Relations
+ - This project required Python and its libraries to manipulate data from multiple databases to create correlation charts, scatterplots, and graphs. Correlation charts revealed the correlation between the data given, scatterplots demonstrate temperature to data relations and its logistic regression. Lastly, graphs determined the amount of energy used during different times of the day.
